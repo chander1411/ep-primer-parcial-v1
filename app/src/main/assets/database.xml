@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[movil@facci.com]]></property>
+                <property name="password"><![CDATA[hello]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="type"><![CDATA[taza]]></property>
+                <property name="name"><![CDATA[Taza Elmo]]></property>
+                <property name="description"><![CDATA[Taza de plaza sésamo con el personaje cómico Elmo en la cual podrás tomar tus bebidas frías o calientes tú decides en que momento quieres que Elmo te acompañe a tomar el café]]></property>
+                <property name="price"><![CDATA[5,87]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="type"><![CDATA[celular]]></property>
+                <property name="name"><![CDATA[Celular Iphone 11]]></property>
+                <property name="description"><![CDATA[El nuevo smartphone que lo tiene todo! Con este lanzamiento, Apple ha superado todos sus récords. Su diseño se destaca por líneas finas y distinguidas a partir de una sola hoja de vidrio resistente, combinada con aluminio de excelente calidad]]></property>
+                <property name="price"><![CDATA[589.0]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="type"><![CDATA[calculadora]]></property>
+                <property name="name"><![CDATA[CALCULADORA CASIO MX12B NEGRA]]></property>
+                <property name="description"><![CDATA[Pantalla extra grande de 12 dígitos, celda solar, teclas plásticas y cubierta de metal, Pulsación simultanea de teclas, signos de mandos de funciones, tecla de costo, venta y margen]]></property>
+                <property name="price"><![CDATA[7.25]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
